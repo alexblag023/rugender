@@ -1,0 +1,392 @@
+# Эталонный корпус rugender: ВЫМЫШЛЕННЫЕ сочетания ФИО (реальных людей и ПДн нет).
+# group	surname	name	patronymic	gold	note
+# gold — пол вымышленного человека. Часть имён намеренно НЕ входит в словари
+# data_src (проверка правил на незнакомом); корпус в словари не копировать.
+# Пустые поля — пустая строка.
+ru	Смирнов	Алексей	Викторович	m
+ru	Кузнецова	Елена	Павловна	f
+ru	Попов	Никита	Андреевич	m
+ru	Соколова	Анастасия		f
+ru	Лебедев	Илья		m
+ru	Новикова	Любовь	Ильинична	f
+ru	Морозов	Кузьма	Фомич	m
+ru	Волкова	Нинель		f
+ru	Алексеева	Ксения	Саввишна	f
+ru	Зайцев	Фома		m
+ru	Павлова	Евдокия		f
+ru	Семёнов	Пётр	Ильич	m
+ru	Голубева	Алёна		f
+ru	Виноградов	Савва		m
+ru	Богданова	Зоя		f
+ru	Воробьёв	Лука	Никитич	m
+ru	Фёдорова	Таисия		f
+ru	Михайлов	Данила		m
+ru	Беляева	Рахиль		f
+ru	Тарасов	Добрыня		m
+ru	Белова	Ярослава		f
+ru	Комаров	Всеволод		m
+ru	Орлова	Мирослава		f
+ru	Киселёв	Аристарх		m
+ru	Макарова	Агния		f
+ru	Андреев	Елисей		m
+ru	Ковалёва	Есения		f
+ru	Ильин	Прохор		m
+ru	Гусева	Василиса		f
+ru	Титов	Ерофей		m
+ru	Кудрявцева	Глафира		f
+ru	Баранов	Тихон		m
+ru	Куликова	Олимпиада		f
+ru	Алексеев	Вячеслав		m
+ru	Степанова	Аглая		f
+ru	Черных	Ольга	Петровна	f
+ru	Седых	Иван		m
+ru	Долгих	Валентина		f
+ru	Дурново	Мария		f
+ru	Живаго	Юрий	Андреевич	m
+ru	Бабич	Светлана		f
+ru	Петрович	Сергей		m
+ru	Глинка	Михаил		m
+ru	Сковорода	Наталья		f
+ru	Ким	Евгения	Олеговна	f
+ru	Журавлёв	Женя	Сергеевич	m
+ru	Ширяева	Саша		f
+ru	Лапин	Валя		m
+ru	Соловьёва	Шура		f
+ua_by	Шевченко	Тарас	Григорьевич	m
+ua_by	Ковальчук	Оксана		f
+ua_by	Бондаренко	Остап		m
+ua_by	Мельник	Ганна		f
+ua_by	Ткаченко	Мыкола		m
+ua_by	Кравчук	Олеся		f
+ua_by	Савчук	Богдан		m
+ua_by	Ющенко	Леся		f
+ua_by	Гончарук	Ярына		f
+ua_by	Литвиненко	Устим		m
+ua_by	Бойко	Христина		f
+ua_by	Костенко	Назар		m
+ua_by	Марченко	Олекса		m
+ua_by	Кузьмич	Алесь		m
+ua_by	Гордиенко	Мирослава		f
+ua_by	Ковальская	Ядвига		f
+ua_by	Ковальский	Збигнев		m
+ua_by	Новак	Агнешка		f
+ua_by	Вишневецкий	Анджей		m
+ua_by	Карпенко	Зенон		m
+ua_by	Сидорук	Маричка		f
+ua_by	Захарченко	Светлана		f
+ua_by	Романюк	Орест		m
+ua_by	Довженко	Ольга	Ивановна	f
+ua_by	Кулибаба	Пётр		m
+tatar_bashkir	Хабибуллин	Ринат	Ильдарович	m
+tatar_bashkir	Галиева	Гульнара	Рашидовна	f
+tatar_bashkir	Сафин	Айрат		m
+tatar_bashkir	Гарипова	Алсу		f
+tatar_bashkir	Валиев	Ильнур		m
+tatar_bashkir	Закирова	Ляйсан		f
+tatar_bashkir	Нуриев	Рамиль		m
+tatar_bashkir	Шакирова	Гузель		f
+tatar_bashkir	Гильманов	Салават		m
+tatar_bashkir	Ахметзянова	Чулпан		f
+tatar_bashkir	Фаттахов	Ирек		m
+tatar_bashkir	Хайруллина	Резеда		f
+tatar_bashkir	Мухаметшин	Флюр		m
+tatar_bashkir	Сабирова	Миляуша		f
+tatar_bashkir	Гималетдинов	Ильшат		m
+tatar_bashkir	Юсупова	Эндже		f
+tatar_bashkir	Набиуллин	Рустем		m
+tatar_bashkir	Ганиева	Зиляра		f
+tatar_bashkir	Ибрагимов	Тагир		m
+tatar_bashkir	Ибрагимова	Тагира		f
+tatar_bashkir	Гатауллин	Ильназ		m
+tatar_bashkir	Зарипова	Гульчачак		f
+tatar_bashkir	Сулейманов	Рафкат		m
+tatar_bashkir	Мингазова	Айгуль		f
+tatar_bashkir	Хуснутдинов	Нияз		m
+kazakh_kyrgyz	Нурланов	Ерлан		m
+kazakh_kyrgyz	Абенова	Айгерим		f
+kazakh_kyrgyz	Жумабаев	Бауыржан		m
+kazakh_kyrgyz	Сейтказиева	Асель		f
+kazakh_kyrgyz	Ахметов	Даурен	Серикович	m
+kazakh_kyrgyz	Омарова	Меруерт		f
+kazakh_kyrgyz	Касымов	Олжас		m
+kazakh_kyrgyz	Бекова	Карлыгаш		f
+kazakh_kyrgyz	Тулегенов	Жандос		m
+kazakh_kyrgyz	Иманбаева	Жибек		f
+kazakh_kyrgyz	Нурлан	Ерасыл	Нурланулы	m
+kazakh_kyrgyz	Серик	Аружан	Серикқызы	f
+kazakh_kyrgyz	Асанов	Бакыт	уулу	m
+kazakh_kyrgyz	Токтогулова	Бермет		f
+kazakh_kyrgyz	Мамытов	Чынгыз		m
+kazakh_kyrgyz	Абдыкалыкова	Айпери		f
+kazakh_kyrgyz	Садыров	Нурбек		m
+kazakh_kyrgyz	Жээнбекова	Чолпон		f
+kazakh_kyrgyz	Исаков	Мирлан		m
+kazakh_kyrgyz	Кадырова	Жылдыз		f
+kazakh_kyrgyz	Есенов	Темирлан		m
+kazakh_kyrgyz	Утепова	Динара		f
+kazakh_kyrgyz	Байжанов	Санжар		m
+kazakh_kyrgyz	Дуйсенова	Толкын		f
+kazakh_kyrgyz	Мусин	Нуржан		m
+uzbek_tajik	Каримов	Алишер	Бахромович	m
+uzbek_tajik	Юсупова	Дилноза		f
+uzbek_tajik	Рахимов	Шерзод		m
+uzbek_tajik	Азимова	Севара		f
+uzbek_tajik	Ташкентов	Бобур		m
+uzbek_tajik	Мирзаева	Нигора		f
+uzbek_tajik	Хасанов	Жасур		m
+uzbek_tajik	Султанова	Феруза		f
+uzbek_tajik	Абдуллаев	Отабек	Рустамович	m
+uzbek_tajik	Тошматова	Гулнора		f
+uzbek_tajik	Рахимзода	Фирдавс		m
+uzbek_tajik	Шарипзода	Тахмина		f
+uzbek_tajik	Сафаров	Далер		m
+uzbek_tajik	Назарова	Мунира		f
+uzbek_tajik	Носиров	Парвиз		m
+uzbek_tajik	Давлатова	Шахноза		f
+uzbek_tajik	Эргашев	Улугбек		m
+uzbek_tajik	Холматова	Мохира		f
+uzbek_tajik	Умаров	Сардор	Шавкат угли	m
+uzbek_tajik	Умарова	Нилуфар	Шавкат кизи	f
+uzbek_tajik	Раджабов	Сухроб		m
+uzbek_tajik	Иброхимова	Ситора		f
+uzbek_tajik	Курбонов	Фаррух		m
+uzbek_tajik	Шодиева	Зарнигор		f
+uzbek_tajik	Рахмон	Джамшед		m
+azerbaijani	Мамедов	Эльчин	Гасан оглы	m
+azerbaijani	Алиева	Гюнель	Ильхам кызы	f
+azerbaijani	Гусейнов	Рамин		m
+azerbaijani	Гасанова	Севиндж		f
+azerbaijani	Исмаилов	Тогрул		m
+azerbaijani	Абдуллаева	Нармин		f
+azerbaijani	Керимов	Вугар	Фикрет-оглы	m
+azerbaijani	Расулзаде	Айтен		f
+azerbaijani	Велиев	Джейхун		m
+azerbaijani	Бабаева	Туркан		f
+azerbaijani	Гаджиев	Шахин		m
+azerbaijani	Агаева	Конуль		f
+azerbaijani	Джафаров	Ульви		m
+azerbaijani	Новрузова	Улькер		f
+azerbaijani	Сулейманов	Эльвин	Рауф оглу	m
+azerbaijani	Нагиева	Хаяла		f
+azerbaijani	Мусаев	Орхан		m
+azerbaijani	Алиев	Анар	Тофик оглы	m
+azerbaijani	Ахмедли	Лейла	Рафик гызы	f
+azerbaijani	Байрамов	Фуад		m
+armenian	Петросян	Ашот	Гагикович	m
+armenian	Акопян	Ануш		f
+armenian	Саркисян	Тигран		m
+armenian	Григорян	Гаяне		f
+armenian	Арутюнян	Самвел		m
+armenian	Манукян	Лусине		f
+armenian	Оганесян	Нарек		m
+armenian	Мкртчян	Сирануш		f
+armenian	Варданян	Ваган		m
+armenian	Хачатрян	Асмик		f
+armenian	Карапетян	Гурген		m
+armenian	Аветисян	Шушаник		f
+armenian	Тер-Петросян	Левон		m
+armenian	Мелконян	Татевик		f
+armenian	Бабаян	Овик		m
+armenian	Гаспарян	Нарине		f
+armenian	Казарян	Размик		m
+armenian	Симонянц	Сатеник		f
+armenian	Абрамян	Карен	Суренович	m
+armenian	Минасян	Ани		f
+georgian	Гелашвили	Нино		f
+georgian	Капанадзе	Зураб		m
+georgian	Беридзе	Тамар		f
+georgian	Мамаладзе	Леван		m
+georgian	Цулая	Кетеван		f
+georgian	Окуджава	Гиви		m
+georgian	Джапаридзе	Манана		f
+georgian	Чхеидзе	Шота		m
+georgian	Дадиани	Нестан		f
+georgian	Кварацхелия	Важа		m
+georgian	Гогуа	Русудан		f
+georgian	Церетели	Нугзар		m
+georgian	Абашидзе	Софико		f
+georgian	Кикнадзе	Бидзина		m
+georgian	Мчедлишвили	Тамуна		f
+georgian	Хуцишвили	Торнике		m
+georgian	Лордкипанидзе	Этери		f
+georgian	Гамкрелидзе	Мераб		m
+georgian	Читаия	Цира		f
+georgian	Микеладзе	Каха		m
+chechen_dagestan	Кадыров	Зелимхан	Ахматович	m
+chechen_dagestan	Дудаева	Петимат		f
+chechen_dagestan	Масхадов	Турпал		m
+chechen_dagestan	Яндарбиева	Хеда		f
+chechen_dagestan	Магомедов	Рабадан		m
+chechen_dagestan	Гаджиева	Патимат		f
+chechen_dagestan	Нурмагомедов	Абубакар		m
+chechen_dagestan	Алиева	Хадижат		f
+chechen_dagestan	Абдулаев	Пайзула		m
+chechen_dagestan	Омарова	Сакинат		f
+chechen_dagestan	Исаев	Висхан		m
+chechen_dagestan	Мусаева	Марха		f
+chechen_dagestan	Байсултанов	Дукваха		m
+chechen_dagestan	Эльмурзаева	Зезаг		f
+chechen_dagestan	Халидов	Хамзат		m
+chechen_dagestan	Курбанова	Шамсият		f
+chechen_dagestan	Ахмедханов	Гасбулла		m
+chechen_dagestan	Сулейманова	Бурлият		f
+chechen_dagestan	Гамзатов	Расул		m
+chechen_dagestan	Абакарова	Айшат		f
+baltic	Казлаускас	Витаутас		m
+baltic	Казлаускене	Бирута		f
+baltic	Петраускайте	Гинтаре		f
+baltic	Янкаускас	Миндаугас		m
+baltic	Шимкус	Дайнюс		m
+baltic	Жукаускене	Даля		f
+baltic	Балтрушайтис	Юргис		m
+baltic	Римкуте	Эгле		f
+baltic	Берзиньш	Андрис		m
+baltic	Берзиня	Байба		f
+baltic	Озолс	Гунтис		m
+baltic	Калнина	Лига		f
+baltic	Тамм	Тоомас		m
+baltic	Мяги	Пирет		f
+baltic	Лахти	Пекка		m
+baltic	Виртанен	Айно		f
+baltic	Мацкявичюс	Саулюс		m
+baltic	Мацкявичене	Расса		f
+baltic	Урбонас	Арвидас		m
+baltic	Пятрайтене	Йоланта		f
+korean	Ким	Сергей	Николаевич	m
+korean	Пак	Елена	Владимировна	f
+korean	Цой	Виктор	Робертович	m
+korean	Ли	Анна		f
+korean	Тен	Олег		m
+korean	Хан	Ирина		f
+korean	Тян	Дмитрий		m
+korean	Югай	Светлана		f
+korean	Шин	Алексей		m
+korean	Огай	Марина		f
+korean	Ким	Мин-хо		m
+korean	Пак	Со-ён		f
+korean	Ли	Джи-ён		f
+korean	Чон	Сон-мин		m
+korean	Хегай	Ольга		f
+korean	Ким	Ён-су		m
+korean	Ким	Ын-джу		f
+korean	Пак	Тхэ-ян		m
+korean	Ли	Хе-джин		f
+korean	Цой	Хён-у		m
+chinese	Ван	Цзюнь		m
+chinese	Ли	Мэй		f
+chinese	Чжан	Вэйго		m
+chinese	Лю	Сяомэй		f
+chinese	Чэнь	Хаоюй		m
+chinese	Ян	Лили		f
+chinese	Хуан	Цзяньхуа		m
+chinese	Чжао	Тинтин		f
+chinese	Чжоу	Цзиньлун		m
+chinese	Сюй	Цзинцзин		f
+chinese	Сунь	Чжиган		m
+chinese	Ма	Сюэмэй		f
+chinese	Чжу	Голян		m
+chinese	Ху	Мэйлин		f
+chinese	Го	Цзыхао		m
+chinese	Хэ	Ланьлань		f
+chinese	Гао	Пэн		m
+chinese	Линь	Сяоянь		f
+chinese	Ло	Хунвэй		m
+chinese	Чжэн	Хунмэй		f
+chinese	Лян	Цзюньцзе		m
+chinese	Се	Юньюнь		f
+chinese	Сун	Минхао		m
+chinese	Тан	Сюлань		f
+chinese	Хань	Лэй		m
+chinese	Фэн	Цзюань		f
+chinese	Дэн	Тао		m
+chinese	Цао	Ятин		f
+chinese	Пэн	Бовэнь		m
+chinese	Цзэн	Шуфэнь		f
+chinese	Сяо	Гоцян		m
+chinese	Тянь	Юйлань		f
+chinese	Дун	Цян		m
+chinese	Пань	Сюэцзин		f
+chinese	Юань	Хао		m
+chinese	Цай	Мэнци		f
+chinese	Цзян	Цзинькай		m
+chinese	Юй	Синьи		f
+chinese	Ду	Чжэньюй		m
+chinese	Е	Фан		f
+vietnamese	Нгуен	Ван Хунг		m
+vietnamese	Нгуен	Тхи Хоа		f
+vietnamese	Чан	Ван Нам		m
+vietnamese	Чан	Тхи Лан		f
+vietnamese	Ле	Ван Туан		m
+vietnamese	Ле	Тхи Хыонг		f
+vietnamese	Фам	Дык Минь		m
+vietnamese	Фам	Тхи Май		f
+vietnamese	Хоанг	Ван Лонг		m
+vietnamese	Хоанг	Тхи Тху		f
+vietnamese	Ву	Куанг Хай		m
+vietnamese	Ву	Нгок Ань		f
+vietnamese	Данг	Ван Зунг		m
+vietnamese	Данг	Тхи Нга		f
+vietnamese	Буй	Тхань Тунг		m
+vietnamese	Буй	Тхи Хонг		f
+vietnamese	До	Ван Кыонг		m
+vietnamese	До	Тхи Чанг		f
+vietnamese	Нго	Ван Тханг	 	m
+vietnamese	Нго	Тхи Фыонг		f
+vietnamese	Зыонг	Хунг		m
+vietnamese	Зыонг	Тхао		f
+vietnamese	Нгуен	Хунг	Ван	m
+vietnamese	Нгуен	Хоа	Тхи	f
+vietnamese	Чыонг	Ван Шон		m
+vietnamese	Чыонг	Тхи Туйет		f
+vietnamese	Динь	Куан		m
+vietnamese	Динь	Тхюи		f
+vietnamese	Лам	Ван Фонг		m
+vietnamese	Лам	Тхи Хуен		f
+european	Мюллер	Ханс		m
+european	Шмидт	Ингрид		f
+european	Дюбуа	Пьер		m
+european	Лефевр	Мари		f
+european	Росси	Джузеппе		m
+european	Бьянки	Франческа		f
+european	Гарсия	Хосе		m
+european	Фернандес	Кармен		f
+european	Смит	Джон		m
+european	Джонсон	Элизабет		f
+european	Андерсон	Ларс		m
+european	Нильсен	Биргит		f
+european	Йылмаз	Мехмет		m
+european	Кая	Айше		f
+european	Фишер	Вольфганг		m
+european	Вагнер	Хельга		f
+european	Мартен	Жак		m
+european	Бернар	Жюли		f
+european	Коваль	Кшиштоф		m
+european	Вуйцик	Малгожата		f
+arabic	Аль-Хашими	Ахмад		m
+arabic	Хаддад	Фатима		f
+arabic	Насер	Халид		m
+arabic	Саид	Амира		f
+arabic	Мансур	Тарик		m
+arabic	Халиль	Рания		f
+arabic	Аббас	Карим		m
+arabic	Юсеф	Ясмин		f
+arabic	Хасан	Омар		m
+arabic	Азиз	Лейла		f
+dirty	ИВАНОВА	МАРИЯ	ПЕТРОВНА	f
+dirty	иванов	иван		m
+dirty	Семёнова	Алёна		f
+dirty	Сидоров	И.	И.	m
+dirty	Петрова	А.	В.	f
+dirty	Кузнецов Сергей Иванович			m
+dirty	Петрова Анна			f
+dirty		Ольга	Сергеевна	f
+dirty	Ivanov	Sergey		m
+dirty	Smirnova	Olga		f
+dirty	Иванова-Петрова	Елена		f
+dirty	Ивaнов	Петр		m
+dirty	-	Анна	-	f
+dirty	Гасанов	Тофик	Гасан-оглы	m
+dirty	Алиева	Арзу	Лутфияр кызы	f
+dirty	Мамедова	Гюльнара	Мамедовна	f
+dirty	Анна Ивановна Смирнова			f
+dirty	Сергей Петрович Иванов			m

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rugender"
+version = "0.1.0"
+description = "Офлайн-определение пола по ФИО в русской записи: народы бывшего СССР, китайские, вьетнамские, корейские ФИО"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT (код); данные — см. NOTICE.md"}
+authors = [{name = "rugender contributors"}]
+keywords = ["gender", "russian", "names", "fio", "patronymic", "пол", "ФИО"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Natural Language :: Russian",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alexblag023/rugender"
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+# Только для выгрузки словаря ЗАГС Татарстана из PDF (scripts/fetch_tatarstan_names.py).
+build = ["pypdf>=4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+rugender = ["data/*.tsv", "data/*.json"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

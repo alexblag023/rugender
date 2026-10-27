@@ -1,0 +1,72 @@
+# Окончания фамилий в русской записи → пол (m | f | u — у обоих полов одинаково).
+# Составлено вручную для rugender (src=manual); дополняет правила Petrovich
+# (-ов/-ова, -ин/-ина, -ский/-ская…). Решает самое длинное подходящее окончание.
+# suffix	gender	group	note
+ене	f	lithuanian	Казлаускене — замужняя
+иене	f	lithuanian
+айте	f	lithuanian	Петрайте — незамужняя
+ите	f	lithuanian
+юте	f	lithuanian
+уте	f	lithuanian
+ас	m	lithuanian	Казлаускас
+яс	m	lithuanian
+ис	m	lithuanian	Петраускис, латыш. Калнинис
+юс	m	lithuanian
+ус	m	lithuanian
+иньш	m	latvian	Берзиньш
+иня	f	latvian	Берзиня
+ская	f	slavic
+цкая	f	slavic
+ский	m	slavic
+цкий	m	slavic
+ская	f	slavic
+ова	f	slavic
+ева	f	slavic
+ина	f	slavic
+ына	f	slavic
+ая	f	slavic
+ов	m	slavic
+ев	m	slavic
+ин	m	slavic
+ын	m	slavic
+ой	m	slavic
+ый	m	slavic
+ий	m	slavic
+ян	u	armenian	Петросян
+янц	u	armenian
+уни	u	armenian
+швили	u	georgian	Капанадзе, Гелашвили
+дзе	u	georgian
+ия	u	georgian	Гамсахурдия, Берия
+ава	u	georgian	Окуджава
+ани	u	georgian	Дадиани
+ули	u	georgian
+ули	u	georgian
+енко	u	ukrainian	Шевченко
+ко	u	ukrainian
+ук	u	ukrainian	Ковальчук
+юк	u	ukrainian
+чук	u	ukrainian
+ак	u	ukrainian
+ик	u	ukrainian
+ец	u	ukrainian
+ых	u	russian	Черных
+их	u	russian	Долгих
+ово	u	russian	Дурново
+аго	u	russian	Живаго
+яго	u	russian
+ич	u	slavic	Бабич, Петрович — фамилия, а не отчество
+ман	u	jewish_german	Рабинович -ман -берг
+берг	u	jewish_german
+штейн	u	jewish_german
+сон	u	jewish_german
+ер	u	german	Мюллер, Шнайдер
+дт	u	german
+зода	u	tajik	Рахимзода
+заде	u	azerbaijani	Расулзаде
+ли	u	azerbaijani	Алиевли
+лы	u	azerbaijani
+ску	u	moldovan	Попеску
+эску	u	moldovan
+ану	u	moldovan
+ул	u	moldovan	Морарул

@@ -1,0 +1,108 @@
+{
+  "data_version": "2026.10.1",
+  "files": {
+    "name_morphemes.tsv": {
+      "rows": 31,
+      "sha256": "a8fec5f5d5aa7ebc5bae069d5adb80cf5cee3fb14e5872ea9119e4cb24110ffe"
+    },
+    "name_suffixes.tsv": {
+      "rows": 124,
+      "sha256": "c8621f449c739de6a43a3f937da96b22987079263036715c12051f0db68f794c"
+    },
+    "names.tsv": {
+      "rows": 85414,
+      "sha256": "fa392ed51182682dabcf423ff1301273643ee98861c5fa250eab9a5762a6e74c"
+    },
+    "patronymic.tsv": {
+      "rows": 31,
+      "sha256": "5c06f4f363bb686e86f8c645823b5697568b508143796aa8fc0d6cbc5af9f2d1"
+    },
+    "surname_exact.tsv": {
+      "rows": 189,
+      "sha256": "e162bf393a2efde62bc8a9e2785025a9d1eb937803b582938944273f7f6dd3ca"
+    },
+    "surname_suffixes.tsv": {
+      "rows": 70,
+      "sha256": "1d7a00996b9f187612b014bd30e51a1e208b50a3263df83ec77580d33d3a6f5b"
+    },
+    "syllables.tsv": {
+      "rows": 586,
+      "sha256": "77bf31cf20b04b14ba03fbb0df263dc43f421bc626bdc6254869b0c2db1af5ac"
+    }
+  },
+  "names_by_src": {
+    "azerbaijan": 3184,
+    "kazakhstan": 62623,
+    "latvia": 5652,
+    "latvia_short": 763,
+    "lithuania": 5898,
+    "manual": 1586,
+    "moscow": 212,
+    "petrovich": 104,
+    "tatarstan": 4775,
+    "wikidata": 0,
+    "wikidata_people": 617
+  },
+  "sources": {
+    "azerbaijan": {
+      "copyright": "Министерство юстиции Азербайджанской Республики, «Azərbaycan adları»",
+      "license": "CC0-1.0",
+      "path": "data_src/azerbaijan",
+      "url": "https://opendata.az/en/@azerbaycan-respublikasi-edliyye-nazirliyi/azerbaycan-adlari"
+    },
+    "kazakhstan": {
+      "copyright": "Бюро национальной статистики АСПиР РК, сервис «Популярные имена»",
+      "license": "свободное использование со ссылкой на источник (stat.gov.kz/ru/description/)",
+      "path": "data_src/kazakhstan",
+      "url": "https://stat.gov.kz/ru/instuments/name/"
+    },
+    "latvia": {
+      "copyright": "PMLP (Латвия), «Personu vārdi»",
+      "license": "CC0-1.0",
+      "path": "data_src/latvia",
+      "url": "https://data.gov.lv/dati/dataset/personu-vardi"
+    },
+    "lithuania": {
+      "copyright": "Valstybinė lietuvių kalbos komisija (VLKK), «Vardų lingvistiniai duomenys»",
+      "license": "CC-BY-4.0",
+      "path": "data_src/lithuania",
+      "url": "https://data.gov.lt/datasets/2664/"
+    },
+    "manual": {
+      "copyright": "rugender contributors",
+      "license": "MIT",
+      "path": "data_src/manual",
+      "url": "https://github.com/alexblag023/rugender"
+    },
+    "moscow": {
+      "copyright": "Управление ЗАГС города Москвы, Портал открытых данных Правительства Москвы",
+      "license": "открытые данные (ПП РФ № 583), использование со ссылкой на Портал открытых данных",
+      "path": "data_src/moscow",
+      "url": "https://data.mos.ru/terms"
+    },
+    "petrovich": {
+      "copyright": "Copyright (c) 2013 Petrovich Developers",
+      "license": "MIT",
+      "path": "data_src/petrovich",
+      "url": "https://github.com/petrovich/petrovich-rules"
+    },
+    "tatarstan": {
+      "copyright": "Управление ЗАГС Кабинета Министров Республики Татарстан, «Татарско-русский словарь личных имён, отчеств и фамилий»",
+      "license": "CC-BY-4.0",
+      "path": "data_src/tatarstan",
+      "url": "https://zags.tatarstan.ru/rus/tatarsko-russkiy-slovar-lichnih-imen-otchestv-i.htm"
+    },
+    "wikidata": {
+      "copyright": "Wikidata",
+      "license": "CC0-1.0",
+      "path": "data_src/wikidata",
+      "url": "https://query.wikidata.org"
+    },
+    "wikidata_people": {
+      "copyright": "Wikidata",
+      "license": "CC0-1.0",
+      "path": "data_src/wikidata_people",
+      "url": "https://query.wikidata.org"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+# кеш ответов при выгрузке словарей (scripts/fetch_*.py)
+data_src/*/.cache/
