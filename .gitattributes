@@ -1,0 +1,2 @@
+# Данные сверяются со сборкой побайтно (scripts/build_data.py --check): только LF.
+* text=auto eol=lf
